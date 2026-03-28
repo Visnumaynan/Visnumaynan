@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Visnumaynan%20Vigineshwaran&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Web%20Applications%20%7C%20University%20of%20Westminster&descAlignY=58&descSize=16" width="100%" />
-</div>
+
 
 ---
 
@@ -47,9 +45,9 @@ I'm actively looking for **graduate Software Engineer or AI/ML roles in the UK**
 - **Backend** — Python, Java, PHP · FastAPI, Laravel, Spring Boot
 - **Frontend** — JavaScript, HTML/CSS · Next.js, Tailwind
 - **Databases** — MySQL, PostgreSQL, SQLite
-- **AI & Machine Learning** — scikit-learn, XGBoost, LightGBM, Google Gemini API
-- **DevOps & Tools** — Git, Docker, Linux, Postman, CI/CD basics
-- **Cloud** — AWS & Azure (fundamentals)
+- **AI + Machine Learning** — scikit-learn, XGBoost, LightGBM, Google Gemini API
+- **DevOps + Tools** — Git, Docker, Linux, Postman, CI/CD basics
+- **Cloud** — AWS + Azure (fundamentals)
 
 **In plain terms:** I can take a problem, design a solution, build the full application — front to back — and deploy it.
 
@@ -69,13 +67,15 @@ Developed a CRM system to help the Ministry manage and track public visitor inte
 
 ## 📬 Let's Connect
 
-
+<a href="mailto:vvisnumaynan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vvisnumaynan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
 <a href="https://linkedin.com/in/visnumaynan-vigineshwaran">
   <img src="https://img.shields.io/badge/LinkedIn-visnumaynan--vigineshwaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-📍 London, UK &nbsp;
+📍 London, UK &nbsp;|&nbsp; 📱 07741 955 273
 
 ---
 
