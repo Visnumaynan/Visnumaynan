@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div align="center">
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Visnumaynan%20Vigineshwaran&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Web%20Applications%20%7C%20University%20of%20Westminster&descAlignY=58&descSize=16" width="100%" />
-
 </div>
 
 ---
