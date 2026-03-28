@@ -29,7 +29,7 @@ I'm **Visnu** — a final-year BSc Computer Science student at the **University 
 
 I sit at the intersection of **software engineering**, **applied AI/ML**, and **product thinking**. I build things that solve real problems — from agentic AI pipelines for government reporting to ML-powered healthcare detection systems.
 
-Originally from **Trincomalee, Sri Lanka 🇱🇰**, now building in the UK.
+
 
 ---
 
