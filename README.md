@@ -79,15 +79,13 @@ I sit at the intersection of **software engineering**, **applied AI/ML**, and **
 
 ## 📬 Reach Me
 
-<a href="mailto:vvisnumaynan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vvisnumaynan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+
 
 <a href="https://linkedin.com/in/visnumaynan-vigineshwaran">
   <img src="https://img.shields.io/badge/LinkedIn-visnumaynan--vigineshwaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-📍 London, UK &nbsp;|&nbsp; 📱 07741 955 273
+📍 London, UK &nbsp;
 
 ---
 
