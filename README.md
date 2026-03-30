@@ -19,66 +19,103 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 Who Am I
+<h1 align="center">Hi, I'm Visnu Maynan 👋</h1>
 
-I'm **Visnu**, a final-year **Computer Science student at the University of Westminster, London**, with over a year of professional experience as a Software Engineer.
-
-I specialise in building **web applications and AI-powered tools** — software that automates manual work, helps people make better decisions, and solves real-world problems. I've delivered projects across government, education, transport, and healthcare sectors.
-
-I'm actively looking for **graduate Software Engineer or AI/ML roles in the UK**.
-
----
-
-## 💼 What I'm Currently Building
-
-| Project | What It Does |
-|---|---|
-| 🧬 **AI Health Detection System** | A web app that helps detect a liver condition (NAFLD) using machine learning — my final-year university dissertation |
-| 📝 **AI Form Automation Tool** | An open-source tool that uses AI to automatically fill and process complex forms, reducing manual data entry |
+<p align="center">
+  💻 Software Engineer | 🤖 AI Enthusiast <br>
+  🎓 BSc Computer Science @ University of Westminster
+</p>
 
 ---
 
-## 🛠️ My Technical Skills
+## 🚀 About Me
 
-**I build with:**
+I build **AI-powered systems, scalable web applications, and data-driven platforms** that solve real-world problems.
 
-- **Backend** — Python, Java, PHP · FastAPI, Laravel, Spring Boot
-- **Frontend** — JavaScript, HTML/CSS · Next.js, Tailwind
-- **Databases** — MySQL, PostgreSQL, SQLite
-- **AI + Machine Learning** — scikit-learn, XGBoost, LightGBM, Google Gemini API
-- **DevOps + Tools** — Git, Docker, Linux, Postman, CI/CD basics
-- **Cloud** — AWS + Azure (fundamentals)
-
-**In plain terms:** I can take a problem, design a solution, build the full application — front to back — and deploy it.
+- 🔧 Strong in backend engineering & system design  
+- 🤖 Passionate about AI, automation, and intelligent systems  
+- ⚡ Focused on building impactful, production-ready solutions  
 
 ---
 
-## 🏢 Professional Experience
+## 🔥 What I Do
 
-**Associate Software Engineer** — Quantum Plus (Pvt) Ltd *(Sep 2024 – Jul 2025)*
-Built and maintained production software in a professional team environment, working to deadlines with strong attention to detail.
-
-**Software Engineer (Volunteer)** — Ministry of Education, Eastern Province, Sri Lanka *(Jan 2025 – Jun 2025)*
-Developed a CRM system to help the Ministry manage and track public visitor interactions — improving accountability and service delivery.
-
-**Software Engineer Intern** — Quantum Plus (Pvt) Ltd *(Jan 2024 – Aug 2024)*
+- ⚙️ Backend: PHP (Laravel), Java (Spring Boot), FastAPI  
+- 🎨 Frontend: JavaScript, Tailwind, Bootstrap  
+- 🤖 AI/ML: Python (Data Science, ML models, automation)  
+- 🗄️ Databases: MySQL, PostgreSQL, SQLite  
+- ☁️ DevOps: Docker, CI/CD, AWS, Azure (Basics)  
 
 ---
 
-## 📬 Let's Connect
+## 🚀 Featured Projects
 
+### 📊 FinLA – AI Financial Reporting System
+> Automated financial data extraction, analysis, and reporting for government authorities
 
-&nbsp;
-<a href="https://linkedin.com/in/visnumaynan-vigineshwaran">
-  <img src="https://img.shields.io/badge/LinkedIn-visnumaynan--vigineshwaran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+### 🏢 CRM – Visitor Management System
+> Centralized visitor tracking system improving efficiency in the public sector
 
-📍 London, UK &nbsp;
+### 🚌 LyncSeat – AI Bus Booking Platform
+> Real-time seat tracking, route management, and secure booking system
+
+### 📈 AI Dashboards & Analytics
+> Intelligent dashboards enabling smarter decision-making
 
 ---
 
-<div align="center">
+## 💼 Experience
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+- **Associate Software Engineer** – Quantum Plus (Pvt) Ltd  
+- **Associate Software Engineer (Volunteer)** – Ministry of Education  
+- **Software Engineer Intern** – Quantum Plus  
 
-</div>
+✔️ Agile & team-based development  
+✔️ Clean, maintainable code practices  
+✔️ Strong problem-solving mindset  
+
+---
+
+## 🧠 Interests
+
+- 🤖 Artificial Intelligence & Automation  
+- 🏗️ Scalable System Design  
+- 🚀 Startups & SaaS  
+- 🔐 Cybersecurity & Advanced Tech  
+
+---
+
+## 🎯 Goals
+
+- 🇬🇧 Become a top Software Engineer / AI Engineer in the UK  
+- 🚀 Build innovative AI platforms & SaaS products  
+- 🏗️ Grow into a Technical Leader / System Architect  
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**  
+`Python` `Java` `PHP` `JavaScript` `SQL`
+
+**Frameworks & Tools**  
+`Laravel` `Spring Boot` `FastAPI` `Tailwind` `Docker` `Git`
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/visnumaynan-vigineshwaran/  
+- ✉️ Email: vvisnumaynan@gmail.com  
+
+---
+
+## ✨ Quote
+
+> “The greatest successes come from having the freedom to fail.” 🚀
+
+---
+
+<p align="center">
+  ⭐️ From <b>Visnu Maynan</b>
+</p>
