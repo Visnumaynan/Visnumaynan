@@ -87,7 +87,7 @@ I build **AI-powered systems, scalable web applications, and data-driven platfor
 
 ## 🎯 Goals
 
-- 🇬🇧 Become a top Software Engineer / AI Engineer in the UK  
+- Become a  Software Engineer / AI Engineer in the UK  
 - 🚀 Build innovative AI platforms & SaaS products  
 - 🏗️ Grow into a Technical Leader / System Architect  
 
